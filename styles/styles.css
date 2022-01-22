@@ -1,0 +1,25 @@
+:root{
+    --primaryPaleBlue: hsl(225, 100%, 94%);
+    --primaryBrightBlue: hsl(245, 75%, 52%);
+    --veryPaleBlue: hsl(225, 100%, 98%);
+    --desaturatedBlue: hsl(224, 23%, 55%);
+    --darkBlue: hsl(223, 47%, 23%);
+}
+
+*{
+    width: 1440px;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 16px;
+}
+
+h1{
+    font-weight: 900;
+}
+
+.descriptionText{
+    font-weight: 500;
+}
+
+.buttonPayment{
+    align-items: center;
+}
